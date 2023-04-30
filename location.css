@@ -222,11 +222,11 @@ div svg:hover #twitter{
 
 }
 
-@media screen and (min-width: 1440px){
+@media screen and (min-width: 1200px){
 
 
 .section-one{
-  background: url("./assets/desktop/image-map@2x.png");
+  background: url("./assets/desktop/image-map.png");
 }
 
 .back-btn{
